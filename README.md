@@ -5,4 +5,4 @@ The aim is to scrape profile bio, location, website, followers count and followi
 # Technology Used
 This project is made using Python, Selenium Web Driver and MySQL.
 # Output
-The output table is present in the form of dumped sql file present in database folder/
+The output table is present in the form of dumped sql file present in database folder.
